@@ -1,1 +1,1 @@
-export const DB_NAME = 'streamtube'                 
+export const DB_NAME = 'streamBase'                 
